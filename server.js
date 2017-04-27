@@ -25,5 +25,14 @@ app.get('/contact', function(req, res) {
     res.render('contact.ejs');
 });
 
+/*app.post('/contact', function(req, res) {
+    var name = req.body.name
+    var phone = req.body.phone
+    var interestedClass = req.body.iClass
+    var inqury = { name : name, phone : phone, iClass : iClass }
+    fs.writeFile('inqury.json')
+    })
+});*/
+
 app.listen(port);
 console.log('Server running on http://localhost:' + port)
