@@ -4,7 +4,7 @@
       "name": "CSS Masters",
       "length": "3 Months",
       "description": "Master the world of CSS",
-      "price": "200"
+      "price": "$200"
   },
 
   {
@@ -12,20 +12,20 @@
       "name": "JS Ninja",
       "length": "5 Months",
       "description": "Slice throw all the rest",
-      "price": "500"
+      "price": "$500"
   },
   {
       "id": 3,
       "name": "HTML Kings",
       "length": "1 Months",
       "description": "Impower your <body> to become great",
-      "price": "100"
+      "price": "$100"
   },
   {
       "id": 4,
       "name": "Open Source Everything",
       "length": "2 Years",
       "description": "GIT in the mind of knowing everything",
-      "price": "5000"
+      "price": "$5000"
   }
 ]

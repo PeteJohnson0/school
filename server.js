@@ -10,7 +10,7 @@ app.set('view engine', 'ejs');
 app.use(partials());
 
 app.get('/', function(req, res) {
-    res.sendFile(__dirname + './index.html');
+    res.sendFile(__dirname + '/index.html');
 });
 
 app.get('/courses', function(req, res) {
